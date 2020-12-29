@@ -1,0 +1,630 @@
+@font-face {
+    font-family: 'Sanchez-RegularItalic';
+    src: url('fonts/Sanchez-RegularItalic.eot');
+    src: url('fonts/Sanchez-RegularItalic.eot?#iefix') format('embedded-opentype'),
+        url('fonts/Sanchez-RegularItalic.woff2') format('woff2'),
+        url('fonts/Sanchez-RegularItalic.woff') format('woff'),
+        url('fonts/Sanchez-RegularItalic.ttf') format('truetype');
+    font-weight: normal;
+    font-style: italic;
+}
+
+@font-face {
+    font-family: 'Sanchez-Regular';
+    src: url('fonts/Sanchez-Regular.eot');
+    src: url('fonts/Sanchez-Regular.eot?#iefix') format('embedded-opentype'),
+        url('fonts/Sanchez-Regular.woff2') format('woff2'),
+        url('fonts/Sanchez-Regular.woff') format('woff'),
+        url('fonts/Sanchez-Regular.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'CeraBasic-RegularItalic';
+    src: url('fonts/CeraBasic-RegularItalic.eot');
+    src: url('fonts/CeraBasic-RegularItalic.eot?#iefix') format('embedded-opentype'),
+        url('fonts/CeraBasic-RegularItalic.woff2') format('woff2'),
+        url('fonts/CeraBasic-RegularItalic.woff') format('woff'),
+        url('fonts/CeraBasic-RegularItalic.ttf') format('truetype');
+    font-weight: normal;
+    font-style: italic;
+}
+
+@font-face {
+    font-family: 'NoyhAHand-MenuScript';
+    src: url('fonts/NoyhAHand-MenuScript.eot');
+    src: url('fonts/NoyhAHand-MenuScript.eot?#iefix') format('embedded-opentype'),
+        url('fonts/NoyhAHand-MenuScript.woff2') format('woff2'),
+        url('fonts/NoyhAHand-MenuScript.woff') format('woff'),
+        url('fonts/NoyhAHand-MenuScript.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'CeraBasic-Bold';
+    src: url('fonts/CeraBasic-Bold.eot');
+    src: url('fonts/CeraBasic-Bold.eot?#iefix') format('embedded-opentype'),
+        url('fonts/CeraBasic-Bold.woff2') format('woff2'),
+        url('fonts/CeraBasic-Bold.woff') format('woff'),
+        url('fonts/CeraBasic-Bold.ttf') format('truetype');
+    font-weight: bold;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'CeraBasic-Regular';
+    src: url('fonts/CeraBasic-Regular.eot');
+    src: url('fonts/CeraBasic-Regular.eot?#iefix') format('embedded-opentype'),
+        url('fonts/CeraBasic-Regular.woff2') format('woff2'),
+        url('fonts/CeraBasic-Regular.woff') format('woff'),
+        url('fonts/CeraBasic-Regular.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'CeraBasic-BlackItalic';
+    src: url('fonts/CeraBasic-BlackItalic.eot');
+    src: url('fonts/CeraBasic-BlackItalic.eot?#iefix') format('embedded-opentype'),
+        url('fonts/CeraBasic-BlackItalic.woff2') format('woff2'),
+        url('fonts/CeraBasic-BlackItalic.woff') format('woff'),
+        url('fonts/CeraBasic-BlackItalic.ttf') format('truetype');
+    font-weight: 900;
+    font-style: italic;
+}
+
+@font-face {
+    font-family: 'CeraBasic-Black';
+    src: url('fonts/CeraBasic-Black.eot');
+    src: url('fonts/CeraBasic-Black.eot?#iefix') format('embedded-opentype'),
+        url('fonts/CeraBasic-Black.woff2') format('woff2'),
+        url('fonts/CeraBasic-Black.woff') format('woff'),
+        url('fonts/CeraBasic-Black.ttf') format('truetype');
+    font-weight: 900;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'CeraBasic-BoldItalic';
+    src: url('fonts/CeraBasic-BoldItalic.eot');
+    src: url('fonts/CeraBasic-BoldItalic.eot?#iefix') format('embedded-opentype'),
+        url('fonts/CeraBasic-BoldItalic.woff2') format('woff2'),
+        url('fonts/CeraBasic-BoldItalic.woff') format('woff'),
+        url('fonts/CeraBasic-BoldItalic.ttf') format('truetype');
+    font-weight: bold;
+    font-style: italic;
+}
+
+
+/* font variables */
+$highlight: 'CeraBasic-Black',
+'sans-serif';
+$prose: 'CeraBasic-Regular',
+'sans-serif';
+$relevant: 'CeraBasic-Bold',
+'serif';
+$curious: 'Sanchez-Regular',
+'serif';
+$creative: 'NoyhAHand-MenuScript',
+'serif';
+
+$widget-footer: 'CeraBasic-Bold',
+'serif';
+/* //end font variables */
+
+/* defining rem units font size  (originally html 100% & body 1.5rem) */
+html {
+    font-size: 62.5%;
+}
+
+body {
+    font-size: 2.4rem;
+}
+
+p {
+
+}
+
+@media screen and (min-width: 0px) and (max-width: 576px) {
+html {
+    font-size: 42.5%;
+}
+
+body {
+    font-size: 2.4rem;
+}
+}
+
+
+/* //end defining rem units font size */
+
+
+h1 {
+    font-family: $highlight;
+    font-size: 4.8rem;
+}
+
+h2 {
+    font-family: $highlight;
+    font-size: 4.8rem;
+}
+
+h3 {
+    font-family: $relevant;
+    font-size: 3.2rem !important;
+}
+
+h4 {
+    font-family: $relevant;
+    font-size: 3.2rem !important;
+}
+
+h5 {
+    font-family: $highlight;
+    font-size: 3.2rem;
+}
+
+h6 {
+    font-family: $relevant;
+    font-size: 3.2rem;
+    letter-spacing: 2px;
+}
+
+
+blockquote {
+font-family: $relevant;
+font-size: 2.3rem !important;
+line-height: 1.2;
+margin: 40px 0;
+background-color: transparent;
+border-left: 9px solid $oceano-pacifico;
+padding-left: 24px;
+color: $oceano-pacifico;
+font-weight: bold;
+padding: 20px;
+}
+
+
+/* menu */
+.navbar {
+    font-family: $relevant;
+    font-size: 1.8rem;
+    text-transform: uppercase;
+}
+
+.dropdown-menu {
+    font-size: 1.6rem;
+    color: #212529;
+    text-align: left;
+    list-style: none;
+}
+
+/* //end menu */
+
+.hero-headline-top {
+    font-family: $highlight;
+    font-size: 6.8rem !important;
+    line-height: normal;
+}
+
+.hero-headline {
+    font-family: $highlight;
+    font-size: 4.8rem !important;
+    line-height: normal;
+}
+
+.hero-deck {
+    font-family: $prose;
+    font-size: 3.2rem;
+    line-height: normal;
+}
+
+.hero-kicker {
+    font-family: $creative;
+    font-size: 10.2rem;
+    line-height: 0.8;
+}
+
+.hero-headline-2 {
+    font-family: $curious;
+    font-size: 3.0rem;
+    line-height: normal;
+    text-transform: uppercase;
+}
+
+.hero-button {
+    font-family: $highlight;
+    font-size: 1.9rem;
+    line-height: normal;
+    text-transform: uppercase;
+    display: inline-block;
+    letter-spacing: 2px;
+}
+
+.hero-button-banner-top {
+    font-family: $highlight;
+    font-size: 1.9rem;
+    line-height: normal;
+    text-transform: uppercase;
+    display: inline-block;
+}
+
+.filter-title {
+    font-family : Cera Basic;
+    font-weight : bold;
+    font-size : 24px;
+    letter-spacing : 1.2px;
+    color : #071E4C;
+}
+
+.sidebar-banner-title {
+    font-family : Cera Basic;
+    font-weight : bold;
+    font-size : 19px;
+    letter-spacing : 1.9px;
+    color : #071E4C;
+}
+.sidebar-banner-title a:link {
+    color: #071E4C;
+}
+
+.sidebar-banner-title a:visited {
+    color: #071E4C;
+}
+
+.sidebar-banner-title a:hover {
+    color: #071E4C;
+}
+
+.sidebar-banner-title a:active {
+    color: #071E4C;
+}
+
+.breadcrumbs {
+    font-family: $prose;
+    font-size: 19.2px;
+    line-height: normal;
+    letter-spacing: 1px;
+    color: $laguna-colorada;
+    text-transform: uppercase;
+}
+
+.breadcrumbs a:link {
+    color: $laguna-colorada;
+}
+
+.breadcrumbs a:visited {
+    color: $laguna-colorada;
+}
+
+.breadcrumbs a:hover {
+    color: $laguna-colorada-100;
+}
+
+.breadcrumbs a:active {
+    color: $laguna-colorada-400;
+}
+
+.breadcrumb_last {
+    font-family: $highlight;
+    color: $laguna-colorada-300;
+}
+
+
+
+/* regular content */
+.enfasis {
+    font-family: $highlight;
+    font-size: !important;
+    line-height: normal;
+}
+
+.enfasis1 {
+    font-family: $curious;
+    font-size: 1.75rem !important;
+    text-transform: uppercase;
+}
+
+.enfasis2 {
+    font-family: $prose;
+    font-size: 3.2rem !important;
+}
+
+.enfasis2-strong {
+    font-family: $highlight;
+    font-size: 3.2rem !important;
+    font-weight: 800;
+}
+
+.enfasis3 {
+    font-family: $highlight;
+    font-size: 2.6rem !important;
+}
+
+.enfasis4 {
+    font-family: $curious !important;
+    font-size: 1.8rem;
+    text-transform: uppercase;
+}
+
+.enfasis5 {
+    font-family: $highlight;
+    font-size: 2rem;
+}
+
+.enfasis6 {
+    font-family: $prose;
+    font-size: 9.6rem;
+}
+
+.enfasis7 {
+    font-family: $highlight;
+    font-size: 4rem;
+    line-height: 1;
+}
+
+.enfasis8 {
+    font-family: $creative;
+    font-size: 10.2rem;
+    line-height: 1;
+}
+
+.destacado {
+    font-family: $curious !important;
+    font-size: 3rem;
+    line-height: normal;
+    text-transform: uppercase;
+}
+
+.minitext {
+    font-family: $prose;
+    font-size: 1.4rem;
+}
+.miditext {
+    font-family: $prose;
+    font-size: 1.8rem;
+}
+
+.form-labels {
+    font-family: $relevant;
+    font-size: 1.2rem;
+    color: #585954;
+}
+
+.packages-hats {
+    font-family: $creative;
+    font-size: 5.6rem;
+    line-height: 0.7;
+}
+
+
+/* //end regular content */
+
+.post-title {
+    font-family: $creative;
+    font-size: 5.2rem;
+    line-height: 4rem;
+}
+
+.travel-tips-title {
+    font-family: $creative;
+    font-size: 5.2rem !important;
+    color: $banana-chiquitita;
+}
+
+.entradilla-title {
+    font-family: $prose;
+    font-size: 1.6rem;
+    line-height: 2rem;
+    font-weight: bold;
+}
+
+.entradilla-content {
+    font-family: $prose;
+    font-size: 3rem !important;
+}
+
+.ficha-title {
+    font-family: $highlight;
+    font-size: 1.0rem;
+    line-height: 1rem;
+    font-weight: bold;
+    letter-spacing: 2px;
+    text-transform: uppercase;
+    color: $laguna-colorada-100;
+}
+
+.grammar-guide-title {
+    font-family: $curious;
+    font-size: 3.2rem;
+    line-height: normal;
+    font-weight: normal;
+    text-transform: uppercase;
+    color: $laguna-colorada;
+}
+
+.grammar-guide-content {
+    font-family: $relevant;
+    font-size: 3.2rem;
+    line-height: 2rem;
+    font-weight: bolder !important;
+}
+
+.lets-talk-title {
+    font-family: $curious;
+    font-size: 2.6rem;
+    line-height: 2rem;
+    font-weight: normal;
+    text-transform: uppercase;
+    color: $banana-chiquitita;
+}
+
+.lets-talk-subtitle {
+    font-family: $prose;
+    font-size: 2.6rem;
+    line-height: 2rem;
+    color: $banana-chiquitita;
+}
+
+.lets-talk-content {
+    font-family: $prose;
+    color: $banana-chiquitita;
+}
+
+.post-section {
+    font-family: $curious;
+}
+
+.banner-learn-title {
+    font-family: $creative;
+    font-size: 5.2rem;
+    line-height: 4rem;
+}
+
+.banner-organisations-entry {
+    font-family: $highlight;
+    font-size: 1.9rem;
+    line-height: normal;
+    text-transform: uppercase;
+    letter-spacing: 0.1rem;
+}
+
+
+/* footer font styles */
+
+.newsletter-entry {
+    font-family: $relevant;
+    font-size: 3.2rem;
+    line-height: normal;
+}
+
+.newsletter-title {
+    font-family: $curious;
+    font-size: 3.2rem;
+    line-height: normal;
+    color: $cielo-argentino-400;
+}
+
+.newsletter-content {
+    font-family: $curious;
+    font-size: 1.9rem;
+    line-height: normal;
+    letter-spacing: 5px;
+    text-transform: uppercase;
+    color: $cielo-argentino-400;
+}
+
+.widget-footer {
+    font-family: $widget-footer;
+    text-transform: uppercase;
+}
+
+.widget-footer a:link {
+    text-decoration: none;
+    color: $oceano-pacifico-400;
+}
+
+.widget-footer a:visited {
+    text-decoration: none;
+    color: $oceano-pacifico-400;
+}
+
+.widget-footer a:hover {
+    text-decoration: none;
+    color: $oceano-pacifico-100;
+}
+
+.widget-footer a:active {
+    text-decoration: none;
+    color: $oceano-pacifico-200;
+}
+
+.widget-footer ul {
+    list-style: none outside;
+    padding-left: 0px;
+}
+
+.widget-footer li li {
+    list-style: disc inside;
+    padding: 8px 0 20px 10px;
+}
+
+.widget-footer li li:first-child {}
+
+.widget-footer li li:last-child {}
+
+.widget-footer ol {
+    list-style-type: none;
+    counter-reset: section;
+    padding-left: 10px;
+}
+
+.widget-footer ol li:before {
+    counter-increment: section;
+    content: counters(section, ".") ".  ";
+}
+
+.widget-footer ol li {
+    list-style: none inside;
+    padding: 8px 0 0 0;
+}
+
+.widget-footer ol li:first-child {}
+
+.widget-footer ol li:last-child {
+    padding: 8px 0 0 0;
+}
+
+.widget-footer,
+.menu-item {
+    padding: 0px 0px 10px 0px;
+}
+
+/* //end footer font styles */
+
+
+/* fx fonts */
+.text-white-shadow {
+    text-shadow: 2px 2px 4px #ffffff !important;
+}
+
+.text-black-shadow {
+    text-shadow: 2px 2px 4px #000000 !important;
+}
+
+/* Miguel fonts */
+.custom-modal-title {
+  font-family : Cera Basic;
+  font-weight : bold;
+  font-size : 24px;
+  letter-spacing : 1.2px;
+  color : #FBC02D;
+  color : rgb(251, 192, 45);
+}
+
+.NormalCharacterStyle1 {
+font-family : Cera Basic;
+  font-size : 18px;
+  line-height : 28px;
+  letter-spacing : 0.9px;
+  color : #1E3A71;
+  color : rgb(30, 58, 113);
+}
+
+.searchandfilter h4 {
+    font-family : Cera Basic;
+     font-weight : bold;
+     font-size : 24px;
+     letter-spacing : 1.2px;
+     color : #EE4466;
+     color : rgb(238, 68, 102);
+}
+.searchandfilter label {
+    font-family : Cera Basic;
+      font-size : 18px;
+      color : #EE4466;
+      color : rgb(238, 68, 102);
+
+}

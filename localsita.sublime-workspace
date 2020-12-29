@@ -1,0 +1,595 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"font",
+				"font-size\tproperty"
+			],
+			[
+				"py",
+				"py-5"
+			],
+			[
+				"lets",
+				"lets_talk_title"
+			],
+			[
+				"o",
+				"oceano-pacifico"
+			],
+			[
+				"text",
+				"text-transform\tproperty"
+			],
+			[
+				"mb",
+				"mb-5"
+			],
+			[
+				"bordr",
+				"border-radius\tproperty"
+			],
+			[
+				"border",
+				"border-radius\tproperty"
+			],
+			[
+				"impo",
+				"important"
+			],
+			[
+				"min",
+				"min-height\tproperty"
+			],
+			[
+				"bg",
+				"bg-primary"
+			],
+			[
+				"conta",
+				"container"
+			],
+			[
+				"Tra",
+				"travel_tips"
+			],
+			[
+				"mt",
+				"mt-3"
+			],
+			[
+				"formslive-",
+				"formslive-screenshot-h-01"
+			],
+			[
+				"img",
+				"img-fluid"
+			],
+			[
+				"pt",
+				"pt-5"
+			],
+			[
+				"max-",
+				"max-height\tproperty"
+			],
+			[
+				"rg",
+				"rgba()\tbackground"
+			],
+			[
+				"get_the_",
+				"get_the_terms"
+			],
+			[
+				"the",
+				"the_category"
+			],
+			[
+				"fnt",
+				"font-family\tproperty"
+			],
+			[
+				"el",
+				"elseif\telseif …"
+			],
+			[
+				"is_pa",
+				"is_page"
+			],
+			[
+				"fon",
+				"font-weight\tproperty"
+			],
+			[
+				"fo",
+				"font-size\tproperty"
+			],
+			[
+				"shad",
+				"text-shadow\tproperty"
+			],
+			[
+				"block_03_",
+				"block_03_content_a"
+			],
+			[
+				"font-",
+				"font-weight\tproperty"
+			],
+			[
+				"ar",
+				"articulos"
+			],
+			[
+				"i",
+				"italic\tfont-style"
+			],
+			[
+				"co",
+				"corp"
+			],
+			[
+				"padd",
+				"padding-bottom\tproperty"
+			],
+			[
+				"des",
+				"descargas"
+			],
+			[
+				"col",
+				"color\tproperty"
+			],
+			[
+				"u",
+				"uppercase\ttext-transform"
+			],
+			[
+				"text-a",
+				"text-align\tproperty"
+			],
+			[
+				"margin",
+				"margin-bottom\tproperty"
+			],
+			[
+				"ma",
+				"margin-top\tproperty"
+			],
+			[
+				"di",
+				"div\tTag"
+			],
+			[
+				"ba",
+				"background-color\tproperty"
+			],
+			[
+				"back",
+				"background-color\tproperty"
+			],
+			[
+				"padding",
+				"padding-top\tproperty"
+			],
+			[
+				"te",
+				"text-transform\tproperty"
+			],
+			[
+				"bac",
+				"background-color\tproperty"
+			],
+			[
+				"background",
+				"background-image\tproperty"
+			],
+			[
+				"array",
+				"array"
+			],
+			[
+				"a",
+				"array"
+			],
+			[
+				"end",
+				"endif"
+			],
+			[
+				"wp_enqueue_s",
+				"wp_enqueue_script"
+			],
+			[
+				"fun",
+				"function"
+			],
+			[
+				"wp",
+				"wp_enqueue_scripts"
+			],
+			[
+				"add",
+				"add_action"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"insta",
+				"Package Control: Install Package"
+			],
+			[
+				"remove",
+				"Package Control: Remove Package"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"live",
+				"LiveReload: Self test"
+			],
+			[
+				"Snippet: ",
+				"Snippet: Lorem ipsum"
+			],
+			[
+				"",
+				"HTML: Encode Special Characters"
+			]
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 158.0,
+		"history":
+		[
+			"sublime.log_commands(False)",
+			"sublime.log_commands(True)",
+			"sublime.log.commands(TRUE);",
+			"sublime.log.commands(TRUE)"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+	],
+	"file_history":
+	[
+		"/Applications/MAMP/htdocs/localsita/wp-content/themes/broucku-2019v01 /page.php",
+		"/Applications/MAMP/htdocs/localsita/wp-content/themes/broucku-2019v01 /page-internal-fullwidth.php",
+		"/Applications/MAMP/htdocs/localsita/wp-content/themes/broucku-2019v01 /page-hero-main.php",
+		"/Applications/MAMP/htdocs/localsita/wp-content/themes/broucku-2019v01 /scss/style.scss",
+		"/Applications/MAMP/htdocs/localsita/wp-content/themes/broucku-2019v01 /scss/_fonts.scss",
+		"/Applications/MAMP/htdocs/localsita/wp-content/themes/broucku-2019v01 /footer.php",
+		"/Applications/MAMP/htdocs/localsita/wp-content/themes/broucku-2019v01 /single.php",
+		"/Applications/MAMP/htdocs/localsita/wp-content/themes/broucku-2019v01 /index.php",
+		"/Applications/MAMP/htdocs/localsita/wp-content/themes/broucku-2019v01 /page-blog-sidebar.php",
+		"/Applications/MAMP/htdocs/localsita/wp-content/themes/broucku-2019v01 /entry-summary.php",
+		"/Applications/MAMP/htdocs/localsita/wp-content/themes/broucku-2019v01 /entry.php",
+		"/Applications/MAMP/htdocs/localsita/wp-content/themes/broucku-2019v01 /entry-content.php",
+		"/Applications/MAMP/htdocs/localmdnsa/wp-content/themes/broucku-2019v1/scss/_custom-slick.scss",
+		"/Applications/MAMP/htdocs/localmdnsa/wp-content/themes/broucku-2019v1/functions.php",
+		"/Applications/MAMP/htdocs/localmdnsa/wp-content/themes/broucku-2019v1/header.php",
+		"/Applications/MAMP/htdocs/localmdnsa/wp-content/themes/broucku-2019v1/scss/_fonts.scss",
+		"/Applications/MAMP/htdocs/localmdnsa/wp-content/themes/broucku-2019v1/scss/_custom-slick-v0.scss",
+		"/Applications/MAMP/htdocs/localmdnsa/wp-content/themes/broucku-2019v1/footer.php",
+		"/Applications/MAMP/htdocs/localsita/wp-content/themes/broucku-2019v01 /page-slider-main-fullwidth.php",
+		"/Applications/MAMP/htdocs/localmdnsa/wp-content/themes/broucku-2019v1/scss/_colours.scss",
+		"/Applications/MAMP/htdocs/localmdnsa/wp-content/themes/broucku-2019v1/images/video.mp4",
+		"/Applications/MAMP/htdocs/localmdnsa/wp-content/themes/broucku-2019v1/index.php",
+		"/Applications/MAMP/htdocs/localmdnsa/wp-content/themes/broucku-2019v1/page-internal-fullwidth.php",
+		"/Applications/MAMP/htdocs/localmdnsa/wp-content/themes/broucku-2019v1/page.php",
+		"/Applications/MAMP/htdocs/localmdnsa/wp-content/themes/broucku-2019v1/page-hero-main.php",
+		"/Applications/MAMP/htdocs/localmdnsa/wp-content/themes/broucku-2019v1/page-slider-main-fullwidth.php",
+		"/Applications/MAMP/htdocs/localmdnsa/wp-content/themes/broucku-2019v1/scss/style.scss",
+		"/Applications/MAMP/htdocs/localmdnsa/wp-content/themes/broucku-2019v1/single.php",
+		"/Applications/MAMP/htdocs/localmdnsa/wp-content/themes/broucku-2019v1/style.css",
+		"/Applications/MAMP/htdocs/localmdnsa/wp-content/themes/broucku-2019v1/config.codekit3",
+		"/Applications/MAMP/htdocs/localmdnsa/wp-content/themes/broucku-2019v1/fonts/39475C_1_0.woff",
+		"/Applications/MAMP/htdocs/localmdnsa/wp-content/themes/broucku-2019v1/404.php",
+		"/Applications/MAMP/htdocs/localmdnsa/wp-content/themes/broucku-2019v1/entry-single.php",
+		"/Applications/MAMP/htdocs/localsita/wp-content/themes/broucku-2019v01 /scss/_colours.scss",
+		"/Applications/MAMP/htdocs/localsita/wp-content/themes/broucku.2019.1 /header.php",
+		"/Applications/MAMP/htdocs/localsita/wp-content/themes/broucku.2019.1 /scss/_colours.scss",
+		"/Applications/MAMP/htdocs/localsita/wp-content/themes/broucku.2019.1 /scss/style.scss",
+		"/Applications/MAMP/htdocs/localsita/wp-content/themes/broucku.2019.1 /single.php",
+		"/Applications/MAMP/htdocs/localsita/wp-content/themes/broucku.2019.1 /scss/_fonts.scss",
+		"/Users/cat/Documents/Atelier/envyus-dynamicmethods/Software & SaaS App Landing Page Template - Startly/HTML/index-2019-11-25.html",
+		"/Users/cat/Documents/Atelier/envyus-dynamicmethods/Software & SaaS App Landing Page Template - Startly/HTML/index.html",
+		"/Users/cat/Documents/Atelier/envyus-dynamicmethods/Software & SaaS App Landing Page Template - Startly/HTML/envyus1.sublime-project",
+		"/Applications/MAMP/htdocs/localsita/wp-config.php",
+		"/Users/cat/Documents/Atelier/envyus-dynamicmethods/Software & SaaS App Landing Page Template - Startly/HTML/scss/style.scss",
+		"/Users/cat/Documents/Atelier/envyus-dynamicmethods/Software & SaaS App Landing Page Template - Startly/HTML/index-two.html",
+		"/Users/cat/Documents/Atelier/envyus-dynamicmethods/Software & SaaS App Landing Page Template - Startly/HTML/scss/_global.scss",
+		"/Users/cat/Documents/Atelier/envyus-dynamicmethods/Software & SaaS App Landing Page Template - Startly/HTML/scss/_variables.scss",
+		"/Users/cat/Documents/Atelier/envyus-startly/Software & SaaS App Landing Page Template - Startly/HTML/index.html",
+		"/Users/cat/Documents/Atelier/envyus-startly/Software & SaaS App Landing Page Template - Startly/HTML/index-bkp1.html",
+		"/Users/cat/Documents/Atelier/envyus-startly/Software & SaaS App Landing Page Template - Startly/HTML/blog.html",
+		"/Users/cat/Documents/Atelier/envyus-startly/Software & SaaS App Landing Page Template - Startly/HTML/scss/_global.scss",
+		"/Users/cat/Documents/Atelier/envyus-startly/Software & SaaS App Landing Page Template - Startly/HTML/scss/_variables.scss",
+		"/Users/cat/Documents/Atelier/envyus-startly/Software & SaaS App Landing Page Template - Startly/HTML/scss/style.scss",
+		"/Users/cat/Documents/Atelier/envyus-startly/Software & SaaS App Landing Page Template - Startly/HTML/index-two.html",
+		"/Users/cat/Documents/Atelier/envyus-startly/Software & SaaS App Landing Page Template - Startly/HTML/index-one.html",
+		"/Users/cat/Documents/Atelier/envyus-startly/Software & SaaS App Landing Page Template - Startly/HTML/css/style.css",
+		"/Users/cat/Documents/Atelier/mumabroad.com/Bridge 18 Upgrade project/bridge-child/single.php",
+		"/Users/cat/Documents/Atelier/mumabroad.com/Bridge 18 Upgrade project/bridge-child/templates/blog_single-loop.php",
+		"/Users/cat/Documents/Atelier/mumabroad.com/Bridge 18 Upgrade project/bridge-child/header.php",
+		"/Users/cat/Documents/Atelier/mumabroad.com/Bridge 18 Upgrade project/bridge/single.php",
+		"/Users/cat/Documents/Atelier/mumabroad.com/Bridge 18 Upgrade project/bridge/templates/blog_single-loop.php",
+		"/Users/cat/Documents/Atelier/mumabroad.com/Bridge 18 Upgrade project/bridge-child/templates/blog_small_image-loop.php",
+		"/Users/cat/Documents/Atelier/mumabroad.com/Bridge 18 Upgrade project/bridge/templates/blog_small_image-loop.php",
+		"/Applications/MAMP/htdocs/wpfiltershooks/wp-login.php",
+		"/Users/cat/Documents/Alum/HTML/Chapter_01/01_02/syntax.htm",
+		"/Volumes/carlostalaga.com root/public_html/wp-content/themes/milackumaster180213/functions.php",
+		"/Volumes/carlostalaga.com root/public_html/wp-content/themes/milackumaster180213/scss/_variables.scss",
+		"/Volumes/carlostalaga.com root/public_html/wp-content/themes/milackumaster180213/footer.php",
+		"/Volumes/carlostalaga.com root/public_html/wp-content/themes/milackumaster180213/scss/_fonts.scss",
+		"/Users/cat/Library/Caches/Transmit/E0A2A498-E81E-4C7E-B9D4-57D5B36B793D/mumabroad.com/public_html/wp-content/themes/bridge/css/custom_css.min.css",
+		"/Users/cat/Library/Caches/Transmit/9A150070-7C62-489F-B03F-CC752B7EF6B5/mumabroad.com/public_html/.htaccess",
+		"/Volumes/thewellness.guide/wp-content/themes/foodiepro/includes/simple-grid.php",
+		"/Users/cat/Downloads/installer-1.php",
+		"/Volumes/maresmeconnect.com/wp-content/themes/milackumaster180213/inc_section_standard_navigation.php",
+		"/Volumes/maresmeconnect.com/wp-content/themes/milackumaster180213/scss/_structure-classic-fullwidth.scss",
+		"/Volumes/maresmeconnect.com/wp-content/themes/milackumaster180213/single-services.php",
+		"/Volumes/maresmeconnect.com/wp-content/themes/milackumaster180213/page-sections-fullwidth.php",
+		"/Volumes/maresmeconnect.com/wp-content/themes/milackumaster180213/scss/_fonts.scss",
+		"/Volumes/maresmeconnect.com/wp-content/themes/milackumaster180213/page-home-fullwidth.php",
+		"/Volumes/engasaorg-webmediaco-alpha/header.php",
+		"/Volumes/maresmeconnect.com/wp-content/themes/milackumaster180213/footer.php",
+		"/Volumes/maresmeconnect.com/wp-content/themes/milackumaster180213/functions.php",
+		"/Volumes/maresmeconnect.com/wp-content/themes/milackumaster180213/header.php",
+		"/Users/cat/Library/Caches/Transmit/5F23EE6B-DA65-4CF8-9265-73595FEBD723/mumabroad.com/public_html/wp-content/themes/bridge/style.css",
+		"/Volumes/maresmeconnect.com/wp-content/themes/milackumaster180213/scss/_responsive_classic.scss",
+		"/Volumes/maresmeconnect.com/wp-content/themes/milackumaster180213/inc_blog_standard_navigation.php",
+		"/Volumes/maresmeconnect.com/wp-content/themes/milackumaster180213/scss/_reset.scss",
+		"/Volumes/maresmeconnect.com/wp-content/themes/milackumaster180213/page-contact-fullwidth.php",
+		"/Volumes/maresmeconnect.com/wp-content/themes/milackumaster180213/scss/_vendors.scss",
+		"/Applications/MAMP/htdocs/localmaresmeconnect/wp-content/themes/milackumaster180213/scss/_reset.scss",
+		"/Volumes/maresmeconnect.com/wp-content/themes/milackumaster180213/scss/_variables.scss",
+		"/Volumes/maresmeconnect.com/wp-content/themes/milackumaster180213/scss/_grid.scss",
+		"/Volumes/maresmeconnect.com/wp-content/themes/milackumaster180213/scss/_navigation.scss",
+		"/Applications/MAMP/htdocs/localcolorandtrim/wp-content/themes/kocicka/scss/_grid.scss",
+		"/Applications/MAMP/htdocs/localcolorandtrim/wp-content/themes/kocicka/scss/_responsive.scss",
+		"/Applications/MAMP/htdocs/localcolorandtrim/wp-content/themes/kocicka/scss/_navigation.scss",
+		"/Applications/MAMP/htdocs/localmaresmeconnect/wp-content/themes/milackumaster180213/single-beaches.php",
+		"/Applications/MAMP/htdocs/localmaresmeconnect/wp-content/themes/milackumaster180213/scss/_fonts.scss",
+		"/Applications/MAMP/htdocs/localmaresmeconnect/wp-content/themes/milackumaster180213/scss/_grid.scss",
+		"/Applications/MAMP/htdocs/localmaresmeconnect/wp-content/themes/milackumaster180213/page-realestate-fullwidth.php",
+		"/Applications/MAMP/htdocs/localmaresmeconnect/wp-content/themes/milackumaster180213/functions.php",
+		"/Applications/MAMP/htdocs/localmaresmeconnect/wp-content/themes/milackumaster180213/page-home-fullwidth.php",
+		"/Applications/MAMP/htdocs/localmaresmeconnect/wp-content/themes/milackumaster180213/page-sections-fullwidth.php",
+		"/Applications/MAMP/htdocs/localmaresmeconnect/wp-content/themes/milackumaster180213/page-internal-fullwidth.php",
+		"/Volumes/engasaorg-webmediaco-alpha/scss/_vendors.scss",
+		"/Volumes/engasaorg-webmediaco-alpha/scss/_fonts.scss",
+		"/Volumes/engasaorg-webmediaco-alpha/page-03-compromiso-fullwidth.php",
+		"/Volumes/engasaorg-webmediaco-alpha/page-home-fullwidth.php",
+		"/Volumes/engasaorg-webmediaco-alpha/page-fullwidth-top-header.php",
+		"/Volumes/engasaorg-webmediaco-alpha/scss/_structure-modern-fullwidth.scss",
+		"/Volumes/engasaorg-webmediaco-alpha/page-05-sociedades-internacional.php",
+		"/Volumes/engasaorg-webmediaco-alpha/scss/style.scss",
+		"/Volumes/engasaorg-webmediaco-alpha/scss/_reset.scss",
+		"/Volumes/engasaorg-webmediaco-alpha/scss/_responsive.scss",
+		"/Applications/MAMP/htdocs/localrecover/wp-config.php",
+		"/Users/cat/Desktop/SUZANNE WEBSITE BACKUP/Archive/homedir/public_html/wp-config.php",
+		"/Volumes/engasaorg-webmediaco-alpha/functions.php",
+		"/Volumes/engasaorg-webmediaco-alpha/scss/_variables.scss",
+		"/Volumes/engasaorg-webmediaco-alpha/page.php",
+		"/Volumes/engasaorg-webmediaco-alpha/page-08-contacto.php",
+		"/Volumes/engasaorg-webmediaco-alpha/scss/_grid.scss",
+		"/Volumes/englobally.com.uy/scss/_variables.scss",
+		"/Volumes/engasaorg-webmediaco-alpha/nav-below.php",
+		"/Volumes/engasaorg-webmediaco-alpha/nav-below-single.php",
+		"/Volumes/engasaorg-webmediaco-alpha/single.php",
+		"/Volumes/engasaorg-webmediaco-alpha/entry.php",
+		"/Volumes/engasaorg-webmediaco-alpha/entry-footer.php",
+		"/Volumes/engasaorg-webmediaco-alpha/page-0401-hidraulica-instalaciones.php"
+	],
+	"find":
+	{
+		"height": 33.0
+	},
+	"find_in_files":
+	{
+		"height": 123.0,
+		"where_history":
+		[
+			"/Applications/MAMP/htdocs/localsita/wp-content/themes/",
+			"/Applications/MAMP/htdocs/localsita/wp-content/themes/broucku-2019v01 "
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"text-decoration: none;\n  color: $oceano-pacifico-400;",
+			"widget-footer",
+			"horizontal scroll",
+			"div",
+			"learn the language",
+			"py-0",
+			"BACKGR",
+			"<h4>",
+			"h4",
+			"grammar-guide",
+			"normal",
+			"get_theme_root_uri",
+			"entradilla_title",
+			"entradilla-title",
+			"entradilla",
+			"background",
+			"***hola blog***",
+			" hola blog"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 33.0
+	},
+	"input":
+	{
+		"height": 47.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "localsita.sublime-project",
+	"replace":
+	{
+		"height": 62.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"foo",
+				"footer.php"
+			],
+			[
+				"colo",
+				"scss/_colours.scss"
+			],
+			[
+				"fon",
+				"scss/_fonts.scss"
+			],
+			[
+				"custom",
+				"scss/_custom-slick-v0.scss"
+			],
+			[
+				"sty",
+				"scss/style.scss"
+			],
+			[
+				"en",
+				"entry-single.php"
+			],
+			[
+				"",
+				"404.php"
+			],
+			[
+				"fo",
+				"footer.php"
+			],
+			[
+				"he",
+				"header.php"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"",
+				"/Applications/MAMP/htdocs/localsita/wp-content/themes/broucku.2019.1 /localsita.sublime-workspace"
+			]
+		],
+		"width": 380.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 292.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}

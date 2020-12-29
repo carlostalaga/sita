@@ -1,0 +1,284 @@
+/* project colors */
+$banana-chiquitita: #ffdd55;
+  $banana-chiquitita-100: #FFF5C7;
+  $banana-chiquitita-200: #FFEB66;
+  $banana-chiquitita-300: #FDCF41;
+  $banana-chiquitita-400: #FBC02D;
+
+$oceano-pacifico: #112277;
+  $oceano-pacifico-100: #7F8FC2;
+  $oceano-pacifico-200: #213C9C;
+  $oceano-pacifico-300: #0C2062;
+  $oceano-pacifico-400: #071E4C;
+
+$cielo-argentino: #22c3c3;
+  $cielo-argentino-100: #C4EEED;
+  $cielo-argentino-200: #65DCD8;
+  $cielo-argentino-300: #1A949A;
+  $cielo-argentino-400: #136570;
+
+$cactus-azteca: #aadd33;
+  $cactus-azteca-100: #E8F1B0;
+  $cactus-azteca-200: #C5E873;
+  $cactus-azteca-300: #83BD1F;
+  $cactus-azteca-400: #689919;
+
+$chili-habanero: #dd5533;
+  $chili-habanero-100: #FFECE6;
+  $chili-habanero-200: #FB7953;
+  $chili-habanero-300: #B84830;
+  $chili-habanero-400: #9A2912;
+
+
+$laguna-colorada: #ee4466;
+  $laguna-colorada-100: #FACDCD;
+  $laguna-colorada-200: #F07690;
+  $laguna-colorada-300: #D63759;
+  $laguna-colorada-400: #BD294C;
+
+
+
+.banana-chiquitita {
+    color: $banana-chiquitita;
+}
+
+.banana-chiquitita-100 {
+    color: $banana-chiquitita-100;
+}
+
+.banana-chiquitita-200 {
+    color: $banana-chiquitita-200;
+}
+
+.banana-chiquitita-300 {
+    color: $banana-chiquitita-300;
+}
+
+.banana-chiquitita-400 {
+    color: $banana-chiquitita-400;
+}
+
+.bg-banana-chiquitita {
+    background-color: $banana-chiquitita;
+}
+
+.bg-banana-chiquitita-100 {
+    background-color: $banana-chiquitita-100;
+}
+
+.bg-banana-chiquitita-200 {
+    background-color: $banana-chiquitita-200;
+}
+
+.bg-banana-chiquitita-300 {
+    background-color: $banana-chiquitita-300;
+}
+
+.bg-banana-chiquitita-400 {
+    background-color: $banana-chiquitita-400;
+}
+
+.oceano-pacifico {
+    color: $oceano-pacifico;
+}
+
+.oceano-pacifico-100 {
+    color: $oceano-pacifico-100;
+}
+
+.oceano-pacifico-200 {
+    color: $oceano-pacifico-200;
+}
+
+.oceano-pacifico-300 {
+    color: $oceano-pacifico-300;
+}
+
+.oceano-pacifico-400 {
+    color: $oceano-pacifico-400;
+}
+
+.bg-oceano-pacifico {
+    background-color: $oceano-pacifico;
+}
+
+.bg-oceano-pacifico-100 {
+    background-color: $oceano-pacifico-100;
+}
+
+.bg-oceano-pacifico-200 {
+    background-color: $oceano-pacifico-200;
+}
+
+.bg-oceano-pacifico-300 {
+    background-color: $oceano-pacifico-300;
+}
+
+.bg-oceano-pacifico-400 {
+    background-color: $oceano-pacifico-400;
+}
+
+.cielo-argentino {
+    color: $cielo-argentino;
+}
+
+.cielo-argentino-100 {
+    color: $cielo-argentino-100;
+}
+
+.cielo-argentino-200 {
+    color: $cielo-argentino-200;
+}
+
+.cielo-argentino-300 {
+    color: $cielo-argentino-300;
+}
+
+.cielo-argentino-400 {
+    color: $cielo-argentino-400;
+}
+
+.bg-cielo-argentino {
+    background-color: $cielo-argentino;
+}
+
+.bg-cielo-argentino-100 {
+    background-color: $cielo-argentino-100;
+}
+
+.bg-cielo-argentino-200 {
+    background-color: $cielo-argentino-200;
+}
+
+.bg-cielo-argentino-300 {
+    background-color: $cielo-argentino-300;
+}
+
+.bg-cielo-argentino-400 {
+    background-color: $cielo-argentino-400;
+}
+
+.cactus-azteca {
+    color: $cactus-azteca;
+}
+
+.cactus-azteca-100 {
+    color: $cactus-azteca-100;
+}
+
+.cactus-azteca-200 {
+    color: $cactus-azteca-200;
+}
+
+.cactus-azteca-300 {
+    color: $cactus-azteca-300;
+}
+
+.cactus-azteca-400 {
+    color: $cactus-azteca-400;
+}
+
+.bg-cactus-azteca {
+    background-color: $cactus-azteca;
+}
+
+.bg-cactus-azteca-100 {
+    background-color: $cactus-azteca-100;
+}
+
+.bg-cactus-azteca-200 {
+    background-color: $cactus-azteca-200;
+}
+
+.bg-cactus-azteca-300 {
+    background-color: $cactus-azteca-300;
+}
+
+.bg-cactus-azteca-400 {
+    background-color: $cactus-azteca-400;
+}
+
+.chili-habanero {
+    color: $chili-habanero;
+}
+
+.chili-habanero-100 {
+    color: $chili-habanero-100;
+}
+
+.chili-habanero-200 {
+    color: $chili-habanero-200;
+}
+
+.chili-habanero-300 {
+    color: $chili-habanero-300;
+}
+
+.chili-habanero-400 {
+    color: $chili-habanero-400;
+}
+
+.bg-chili-habanero {
+    background-color: $chili-habanero;
+}
+
+.bg-chili-habanero-100 {
+    background-color: $chili-habanero-100;
+}
+
+.bg-chili-habanero-200 {
+    background-color: $chili-habanero-200;
+}
+
+.bg-chili-habanero-300 {
+    background-color: $chili-habanero-300;
+}
+
+.bg-chili-habanero-400 {
+    background-color: $chili-habanero-400;
+}
+
+.laguna-colorada {
+    color: $laguna-colorada;
+}
+
+.laguna-colorada-100 {
+    color: $laguna-colorada-100;
+}
+
+.laguna-colorada-200 {
+    color: $laguna-colorada-200;
+}
+
+.laguna-colorada-300 {
+    color: $laguna-colorada-300;
+}
+
+.laguna-colorada-400 {
+    color: $laguna-colorada-400;
+}
+
+.bg-laguna-colorada {
+    background-color: $laguna-colorada;
+}
+
+.bg-laguna-colorada-100 {
+    background-color: $laguna-colorada-100;
+}
+
+.bg-laguna-colorada-200 {
+    background-color: $laguna-colorada-200;
+}
+
+.bg-laguna-colorada-300 {
+    background-color: $laguna-colorada-300;
+}
+
+.bg-laguna-colorada-400 {
+    background-color: $laguna-colorada-400;
+}
+
+#border-laguna-colorada-100 {
+    border-color: $laguna-colorada-100 !important;
+    background-color: #f6f6f4;
+}

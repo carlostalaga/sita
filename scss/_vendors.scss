@@ -1,0 +1,191 @@
+/* Search and Filter*/
+.searchandfilter select.sf-input-select {
+    min-width: 170px;
+    background: #f3f3f3;
+    font-size: 1.6rem;
+}
+
+/* YARPP */
+
+.yarpp-thumbnails-horizontal .yarpp-thumbnail {
+    border: 0px solid rgba(127, 127, 127, 0.1);
+    width: 260px !important;
+    height: 300px !important;
+    margin: 5px;
+    margin-left: 0px;
+    vertical-align: top;
+}
+.yarpp-thumbnail > img, .yarpp-thumbnail-default {
+    width: 250px !important;
+    height: 180px !important;
+    margin: 5px;
+}
+.yarpp-thumbnails-horizontal .yarpp-thumbnail-title {
+    font-size: 1em;
+    max-height: 2.8em;
+    line-height: 1.4em;
+    margin: 7px;
+        margin-top: 7px;
+    margin-top: 0px;
+    width: 120px;
+    text-decoration: inherit;
+    overflow: hidden;
+    width: 100%;
+}
+
+.yarpp-thumbnails-horizontal .yarpp-thumbnail-title {
+    font-size: 1.4rem !important;
+    height: 240px !important;
+    line-height: 1.4em;
+    margin: 7px;
+    margin-top: 0px;
+    width: 100%;
+    text-decoration: inherit;
+    overflow: hidden;
+    text-align: left;
+    padding: 10px 5px;
+    overflow: visible !important;
+}
+.yarpp-thumbnails-horizontal .yarpp-thumbnail {
+    border: 0px solid rgba(127,127,127,0.1);
+    width: 180px !important;
+    height: 220px !important;
+    margin: 5px;
+    margin-left: 0px;
+    vertical-align: top;
+}
+
+.yarpp-thumbnail > img, .yarpp-thumbnail-default {
+    width: 160px !important;
+    height: 120px;
+    margin: 5px;
+}
+
+
+/* Bookly */
+.bookly-form {
+    font-size: 16px;
+}
+.picker__holder {
+    border: 0px solid #aaa !important;
+}
+.picker--opened .picker__holder {
+    box-shadow: 0 0px 0px 0px rgba(0,0,0,.12);
+}
+.bookly-nav-steps {
+    border-top: 0px solid #ffffff !important;
+}
+.bookly-progress-tracker > div:first-child .step {
+    border-radius: 0px 0 0 0px;
+}
+.bookly-progress-tracker > div:last-child .step {
+    border-radius: 0 0px 0px 0;
+}
+
+/* Essential Grid Filters*/
+.esg-filter-wrapper {
+    display: inline-grid;
+}
+
+.text-light .esg-filterbutton {
+    border-right: 0px solid #e5e5e5 !important;
+}
+
+.text-light .esg-filterbutton, .text-light .esg-navigationbutton, .text-light .esg-sortbutton, .text-light .esg-cartbutton {
+    color: #333 !important;
+    font-family: "CeraBasic-Regular",sans-serif !important;
+}
+
+.text-light .esg-filter-checked {
+    background: rgba(255,255,255,0.4) !important;
+}
+
+/* Mailchimp  */
+
+#mc_embed_signup {
+    background: transparent !important;
+    clear: left;
+    font: 14px CeraBasic-Regular,sans-serif !important;
+    width: 100%;
+}
+
+#mc_embed_signup input.email {
+    font-family: CeraBasic-Bold,sans-serif !important;
+    font-size: 18px !important;
+    border: 1px solid #ABB0B2 !important;
+    -webkit-border-radius: 25px !important;
+    -moz-border-radius: 25px !important;
+    border-radius: 25px !important;
+    color: #343434;
+    background-color: #fff;
+    box-sizing: border-box;
+    height: 50px !important;
+    padding: 0px 1.4em !important;
+    display: inline-block;
+    margin: 0;
+    width: 350px;
+    vertical-align: top;
+}
+
+
+#mc_embed_signup .button {
+    font-family: CeraBasic-Bold,sans-serif !important;
+    font-size: 1.12rem !important;
+    border: none;
+    -webkit-border-radius: 25px !important;
+    -moz-border-radius: 25px !important;
+    border-radius: 25px !important;
+    letter-spacing: .03em;
+    color: #fff;
+    background-color: #112277 !important;
+    box-sizing: border-box;
+    height: 50px !important;
+    line-height: 32px;
+    padding: 0 46px !important;
+    display: inline-block;
+    margin: 0;
+    transition: all 0.23s ease-in-out 0s;
+}
+
+#mc_embed_signup .button:hover {
+    background-color: #071E4C !important;
+}
+
+
+/* Contact Form 7 */
+.wpcf7 p {
+    margin-bottom: 0px;
+}
+.wpcf7 input[type="text"],
+.wpcf7 input[type="email"],
+.wpcf7 textarea
+{
+    -webkit-box-sizing: border-box; /* Safari/Chrome, other WebKit */
+    -moz-box-sizing: border-box;    /* Firefox, other Gecko */
+    box-sizing: border-box;         /* Opera/IE 8+ */
+    background-color: rgba(255,255,255,1.0);
+    border: 0px solid #efefef;
+    margin: 0px 0;
+    padding: 14px 20px;
+    color: #112277 !important;
+    width: 100%;
+    font-size: 1.8rem;
+    line-height: normal;
+}
+.wpcf7 > form input[type="submit"] {
+    background-color: #112277;
+    border: 0px solid #112277;
+    font-family: $prose;
+    color: #ffffff;
+    font-size: 1.8rem;
+    text-transform: none;
+    padding: 12px 55px 10px 55px;
+    border-radius: 32px;
+}
+.wpcf7 > form input[type="submit"][disabled],
+.wpcf7 > form input[type="submit"][disabled]:hover,
+.wpcf7 > form input[type="submit"][disabled]:focus {
+    background-color: rgba(0,0,0,0.4);
+    border: 0px solid #000000;
+    color: #35aed3;
+}
